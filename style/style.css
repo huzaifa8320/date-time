@@ -1,0 +1,15 @@
+.div2{
+    background-color: aqua;
+    width: 500px;
+    /* height: 450px; */
+    border-radius: 20px;
+}
+.para1{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bor{
+    border: 2px solid black;
+}
