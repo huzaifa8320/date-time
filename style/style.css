@@ -1,7 +1,6 @@
 .div2{
     background-color: aqua;
     width: 500px;
-    /* height: 450px; */
     border-radius: 20px;
 }
 .para1{
@@ -12,4 +11,13 @@
 }
 .bor{
     border: 2px solid black;
+}
+.para2{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+@media(max-width:400px){
+    .para2{
+        font-size: 29px;
+    }
 }
